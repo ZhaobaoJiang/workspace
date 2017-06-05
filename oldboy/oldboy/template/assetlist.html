@@ -1,0 +1,20 @@
+{% extends "master/layout.html" %}
+{% load oldboy %} 
+{% block content %}
+<h1>{{ user }}</h1>
+    <table style="border:1px" border='1'>
+        {% for item in data %}
+            <tr>
+                 <td>{{item.id}}</td>
+                 <td>{% mymethod item.id %}</td>
+                 <td>{{item.hostname}}</td>
+                 <td>{{item.create_date|date:"Y-m-d  H:i:s"}}</td>
+                 <td>{{item.update_date|date:"Y-m-d  H:i:s"}}</td>
+            </tr>
+        {% endfor %}
+        {% if user%}
+            <h2>True</h2>
+        {% endif%}
+        
+    </table>
+{% endblock %}

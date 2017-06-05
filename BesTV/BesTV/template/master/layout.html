@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
+    <link rel="stylesheet" href="/static/css/style.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="/static/css/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+    <!--jQuery 需在bootstrap的js文件之前引入 -->
+    <script type="text/javascript" src="/static/js/jquery-1.11.1/jquery.min.js"></script>
+    <script type="text/javascript" src="/static/css/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+    <title>BesTV-上海驻地</title>
+
+</head>
+<body>
+<!-- 头部 -->
+<div class="head">
+    BesTV-上海驻地
+</div>
+ 
+<!-- 导航栏 -->
+<div style="background:#96b97d;margin-top:10px;">
+    <ul id="index-nav">
+	    <li>
+		    <a href="index.html">首页</a>
+		</li>
+		<li>
+		    <a class="nav-content1" href="/web/index.html">机顶盒</a>
+		</li>
+		<li>
+		    <a class="nav-content2" href="/web/documents.html">参考资料</a>
+		</li>
+		<li>
+		    <a class="nav-content3" href="/web/epg.html">EPG</a>
+		</li>
+		<li>
+		    <a class="nav-content4" href="/web/customer.html">用户管理</a>
+		</li>	 
+		<li>
+		    <a class="nav-content4" href="/web/contact.html">常用联系人</a>
+		</li>
+	</ul>
+</div>
+<!-- 内容 -->
+<div>
+	 {% block content %}{% endblock%}
+</div>
+ 
+<!-- 底部 -->
+<div id="footer" style="text-align:center;position:fixed;bottom:30px;width:100%;">
+	<hr/>
+    <a href="http://www.bestv.com.cn" target="_blank">BesTV官网&nbsp;</a>|
+	<a href="http://www.baidu.com" target="_blank">首页&nbsp;</a>|
+	<a href="http://www.oriental-pearl.cn" target="_blank">关于我们</a>
+</div>
+</body>
+</html> 

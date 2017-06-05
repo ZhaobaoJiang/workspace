@@ -1,0 +1,36 @@
+/*头部css样式*/
+.head{
+	height: 30px;
+	margin-top:20px;
+	margin-left: 86px;
+	color: orange;
+    font-size: 20px;
+}
+/*导航栏css样式*/
+#index-nav {
+	line-height:50px;
+	color:red;
+}
+#index-nav li {
+	display:inline;
+	margin-left:40px;
+}
+#index-nav li a:link,#index-nav li a:visited{
+	display: block;
+	float: left;
+	font-weight: bold;
+	color:#ffffff;
+	width: 120px;
+	text-align: center;
+	padding: 4px;
+    text-decoration: none;
+}
+#index-nav li a:hover,#index-nav li a:active {
+	background-color: #7A991A;
+	height: 50px;
+}
+/*底部css样式*/
+#footer a:link,#footer a:visited {
+	text-decoration:none;
+	color:black;
+}

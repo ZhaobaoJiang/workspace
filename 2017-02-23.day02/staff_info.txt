@@ -1,0 +1,15 @@
+root 0 /bin/bash
+bin 1 /sbin/nologin
+daemon 2 /sbin/nologin
+adm 4 /sbin/nologin
+lp 7 /sbin/nologin
+sync 0 /bin/sync
+shutdown 0 /sbin/shutdown
+halt 0 /sbin/halt
+mail 12 /sbin/nologin
+uucp 14 /sbin/nologin
+operator 0 /sbin/nologin
+games 100 /sbin/nologin
+gopher 30 /sbin/nologin
+ftp 50 /sbin/nologin
+nobody 99 /sbin/nologin
