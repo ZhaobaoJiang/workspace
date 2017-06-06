@@ -1,0 +1,10 @@
+{% extends "master/layout.html"%}
+{% block content%}
+    <div>
+        <h3>添加联系人</h3>
+    </div>
+    <hr/>
+    <div>
+        <h3>联系人列表</h3>
+    </div>
+{% endblock%}

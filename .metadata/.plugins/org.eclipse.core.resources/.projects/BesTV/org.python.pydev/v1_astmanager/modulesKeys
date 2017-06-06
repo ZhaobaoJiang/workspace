@@ -1,0 +1,14 @@
+MODULES_MANAGER_V2
+BesTV.BesTV.__init__|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\BesTV\__init__.py
+BesTV.BesTV.settings|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\BesTV\settings.py
+BesTV.BesTV.urls|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\BesTV\urls.py
+BesTV.BesTV.wsgi|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\BesTV\wsgi.py
+BesTV.manage|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\manage.py
+BesTV.web.__init__|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\web\__init__.py
+BesTV.web.admin|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\web\admin.py
+BesTV.web.apps|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\web\apps.py
+BesTV.web.migrations.__init__|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\web\migrations\__init__.py
+BesTV.web.models|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\web\models.py
+BesTV.web.tests|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\web\tests.py
+BesTV.web.urls|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\web\urls.py
+BesTV.web.views|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\web\views.py

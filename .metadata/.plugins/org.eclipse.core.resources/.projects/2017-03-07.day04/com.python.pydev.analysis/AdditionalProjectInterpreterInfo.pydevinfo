@@ -1,0 +1,34 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\jiang.zhaobao\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\2017-03-07.day04\com.python.pydev.analysis\v2_indexcache
+oop.index|1496716878198095000|C:\Users\jiang.zhaobao\workspace\2017-03-07.day04\oop\index.py
+decrator.__init__|1496716878198095000|C:\Users\jiang.zhaobao\workspace\2017-03-07.day04\decrator\__init__.py
+oop.__init__|1496716878198095000|C:\Users\jiang.zhaobao\workspace\2017-03-07.day04\oop\__init__.py
+decrator.main|1496716878198095000|C:\Users\jiang.zhaobao\workspace\2017-03-07.day04\decrator\main.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+6=son.__init__
+4=son
+1=oop.index
+2=decrator.main
+5=Father.__init__
+3=Father
+-- END DICTIONARY
+-- START TREE 1
+6
+fat|1|Father!9@
+fun|1|func1!18@
+out|1|outer!18@
+res|1|result!19@
+s|1|s!11@
+son|1|son!9@
+-- END TREE
+-- START TREE 2
+5
+__i|2|__init__!3&10@__init__!4&10@
+bad|2|Bad!3&10@Bad!4&10@
+bar|1|bar!4&10@
+fna|1|Fname!5&11@
+sna|1|Sname!6&11@
+-- END TREE

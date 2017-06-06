@@ -1,0 +1,10 @@
+{% extends "master/layout.html"%}
+{% block content%}
+    <div>
+        <h3>hello</h3>
+    </div>
+    <hr/>
+    <div>
+        <h3>hello</h3>
+    </div>
+{% endblock%}

@@ -1,0 +1,65 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\jiang.zhaobao\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\BesTV\com.python.pydev.analysis\v2_indexcache
+BesTV.BesTV.wsgi|1496716878213695000|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\BesTV\wsgi.py
+BesTV.manage|1496716878213695000|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\manage.py
+BesTV.BesTV.__init__|1496716878198095000|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\BesTV\__init__.py
+BesTV.web.apps|1496716880019795000|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\web\apps.py
+BesTV.web.migrations.__init__|1496716880021795000|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\web\migrations\__init__.py
+BesTV.BesTV.settings|1496741749142804000|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\BesTV\settings.py
+BesTV.BesTV.urls|1496716878213695000|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\BesTV\urls.py
+BesTV.web.views|1496741721891371000|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\web\views.py
+BesTV.web.urls|1496716880026795000|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\web\urls.py
+BesTV.web.__init__|1496716880015795000|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\web\__init__.py
+BesTV.web.models|1496740848253497000|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\web\models.py
+BesTV.web.tests|1496716880024795000|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\web\tests.py
+BesTV.web.admin|1496716880018795000|C:\Users\jiang.zhaobao\workspace\BesTV\BesTV\web\admin.py
+-- END DISKCACHE
+-- START DICTIONARY
+9
+5=BesTV.web.urls
+3=BesTV.web.models
+2=BesTV.BesTV.wsgi
+8=contact
+7=BesTV.web.apps
+9=WebConfig
+1=BesTV.BesTV.settings
+4=BesTV.web.views
+6=BesTV.BesTV.urls
+-- END DICTIONARY
+-- START TREE 1
+25
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+c|0|
+con|2|contact!25@contact!34@
+cus|1|customer!34@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+doc|1|documents!34@
+epg|1|epg!34@
+ind|1|index!34@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+log|1|login!34@
+mid|1|MIDDLEWARE!11@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|2|STATICFILES_DIRS!11@STATIC_URL!11@
+tem|1|TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+url|2|urlpatterns!43@urlpatterns!51@
+use|3|USE_L10N!11@USE_I18N!11@USE_TZ!11@
+web|1|WebConfig!57@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+5
+add|1|address!8&27@
+ema|1|email!8&27@
+nam|1|name!9&59@
+tel|1|tel!8&27@
+use|1|username!8&27@
+-- END TREE
