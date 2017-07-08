@@ -1,19 +1,19 @@
 -- VERSION_4
 -- START DISKCACHE_2
-C:\Users\jiang.zhaobao\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\2017-03-07.day04\com.python.pydev.analysis\v2_indexcache
-oop.index|1496716878198095000|C:\Users\jiang.zhaobao\workspace\2017-03-07.day04\oop\index.py
-decrator.__init__|1496716878198095000|C:\Users\jiang.zhaobao\workspace\2017-03-07.day04\decrator\__init__.py
-oop.__init__|1496716878198095000|C:\Users\jiang.zhaobao\workspace\2017-03-07.day04\oop\__init__.py
-decrator.main|1496716878198095000|C:\Users\jiang.zhaobao\workspace\2017-03-07.day04\decrator\main.py
+/root/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/2017-03-07.day04/com.python.pydev.analysis/v2_indexcache
+oop.index|1496627637000000000|/root/workspace/2017-03-07.day04/oop/index.py
+decrator.main|1496627637000000000|/root/workspace/2017-03-07.day04/decrator/main.py
+oop.__init__|1496627637000000000|/root/workspace/2017-03-07.day04/oop/__init__.py
+decrator.__init__|1496627637000000000|/root/workspace/2017-03-07.day04/decrator/__init__.py
 -- END DISKCACHE
 -- START DICTIONARY
 6
-6=son.__init__
-4=son
+5=Father.__init__
 1=oop.index
 2=decrator.main
-5=Father.__init__
-3=Father
+3=son
+4=Father
+6=son.__init__
 -- END DICTIONARY
 -- START TREE 1
 6
@@ -28,7 +28,7 @@ son|1|son!9@
 5
 __i|2|__init__!3&10@__init__!4&10@
 bad|2|Bad!3&10@Bad!4&10@
-bar|1|bar!4&10@
+bar|1|bar!3&10@
 fna|1|Fname!5&11@
 sna|1|Sname!6&11@
 -- END TREE

@@ -1,7 +1,7 @@
 MODULES_MANAGER_V2
-main.__init__|C:\Users\jiang.zhaobao\workspace\2017-02-26.day03\main\__init__.py
-main.index|C:\Users\jiang.zhaobao\workspace\2017-02-26.day03\main\index.py
-main.shopping|C:\Users\jiang.zhaobao\workspace\2017-02-26.day03\main\shopping.py
-main.user_action|C:\Users\jiang.zhaobao\workspace\2017-02-26.day03\main\user_action.py
-main.user_action_recod|C:\Users\jiang.zhaobao\workspace\2017-02-26.day03\main\user_action_recod.py
-main.user_info|C:\Users\jiang.zhaobao\workspace\2017-02-26.day03\main\user_info.py
+main.__init__|/root/workspace/2017-02-26.day03/main/__init__.py
+main.index|/root/workspace/2017-02-26.day03/main/index.py
+main.shopping|/root/workspace/2017-02-26.day03/main/shopping.py
+main.user_action|/root/workspace/2017-02-26.day03/main/user_action.py
+main.user_action_recod|/root/workspace/2017-02-26.day03/main/user_action_recod.py
+main.user_info|/root/workspace/2017-02-26.day03/main/user_info.py

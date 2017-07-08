@@ -1,0 +1,124 @@
+@CHARSET "UTF-8";
+.w {
+	width:1100px;
+	margin:0 auto;
+}
+
+.hide{
+	display:none;
+}
+
+.left{
+	float:left;
+}
+
+.right{
+	float:right;
+}
+.clearfix:after{
+	content:'.';
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+}
+body{
+	margin:0px;
+}
+/*分页开始*/
+.custom-padding{
+	font-size:8px;
+}
+.custom-padding a{
+	background-color:#2459a2;
+	border:1px solid White;
+	text-decoration:none;
+	color:White;
+	padding:3px;
+}
+.custom-padding a:hover{
+	background-color:#00a2ca;
+}
+
+.custom-padding a.selected{
+	background-color:#00a2ca;
+}
+/*分页结束*/
+
+.pg-header{
+	height:44px;
+    background-color:#2459a2;	
+}
+.pg-header .logo{
+	width:121px;
+	height:23px;
+	background:url('/static/images/logo.png') no-repeat;
+	float:left;
+	margin-top:11px;
+}
+
+.pg-header .menu{
+	margin-left:20px;
+	line-height:44px;
+	font-size:12px;
+}
+
+.pg-header .menu .tb{
+	color:#c0cddf;
+	margin-left:-3px;
+	padding:0 18px;
+	display:inline-block;
+}
+
+.pg-header .menu a{
+	text-decoration:none;
+}
+
+.pg-header .menu .current{
+	color:#fff;
+	font-weight:bold;
+	background-color:#204982;
+}
+
+.pg-header .menu a:hover{
+	color:#fff;
+	font-weight:bold;
+	background-color:#204982;
+}
+
+.pg-footer{
+	height:50px;
+}
+
+.pg-footer .w{
+	border-top:2px solid #2459a2;
+}
+
+.pg-footer .content{
+	font-family:Arial,Helvetica,sans-serif;
+	text-align:center;
+	font-size:12px;
+	margin-top:10px;
+}
+
+/*首页开始*/
+.pg-body{
+	min-height:500px;
+	padding:15px 0;
+}
+.pg-body .w .bbs{
+	width:650px;
+}
+
+.pg-body .w .bbs .title a{
+	text-decoration:none;
+}
+
+.pg-body .w .bbs .title{
+	height:50px;
+}
+
+.pg-body .w .bbs .title .publish{
+	padding:5px;
+	background-color:
+}

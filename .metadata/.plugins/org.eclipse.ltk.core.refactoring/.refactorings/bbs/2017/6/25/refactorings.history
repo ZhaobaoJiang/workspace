@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;bbs/bbs/templates/index.html&apos; to &apos;index.html.bak&apos;" description="Rename resource &apos;index.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="bbs/templates/index.html" name="index.html.bak" stamp="1497964332675" updateReferences="true"/>
+</session>

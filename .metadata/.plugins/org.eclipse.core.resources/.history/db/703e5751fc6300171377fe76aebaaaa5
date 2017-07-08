@@ -1,0 +1,16 @@
+{% extends "master/layout.html"%}
+{% block content%}
+    <div>
+        <h3>添加联系人</h3>
+        <form>
+                                   联系人：<input name="username" placeholder="请输入联系人"/> 
+                                   电    话：<input name="tel" placeholder="请输入电话号码"/> 
+                                  邮    箱：<input name="email" placeholder="请输入邮箱"/> 
+                             地    址：<input name="address" placeholder="请输入地址"/> 
+        </form>
+    </div>
+    <hr/>
+    <div>
+        <h3>联系人列表</h3>
+    </div>
+{% endblock%}

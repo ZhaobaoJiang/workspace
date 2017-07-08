@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" type="text/css" href="/static/css/common.css">
+</head>
+<body>
+    <div class="pg-header">
+        <div class="header-menu">
+            <a href="/index/" class="digg-logo"></a>
+            <a href="/index/" class="tb activ">全部</a>
+            <a href="/index/" class="tb">42区</a>
+            <a href="/index/" class="tb">段子</a>
+            <a href="/index/" class="tb">图片</a>
+            <a href="/index/" class="tb">挨踢1024</a>
+            <a href="/index/" class="tb">你问我答</a>
+        </div>
+        <div class="header-search">
+            
+        </div>
+    </div>
+    <div class="pg-body"></div>
+    <div class="pg-footer"></div>
+</body>
+</html>

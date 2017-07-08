@@ -1,0 +1,24 @@
+{% extends "master/layout.html"%}
+{% block content%}
+    <div id="content2">
+        <div class="menu" style="width:20%;height:;float:left">
+	         <ul>
+                <li>
+                    <a href="#010092">电信接口人</a>
+                </li>
+                <li>
+                    <a href="#ott-err-code">BesTV运维人员</a>
+                </li>
+                <li>
+                    <a href="#settop-type">驻地人员</a>
+                </li>
+                <li>
+                    <a href="#shdx-err-code">OTT厂商串口连接方法</a>
+                </li>
+                <li>
+                    <a href="#shdx-err-code">终端绑定与解绑流程</a>
+                </li>
+		    </ul>
+	    </div>
+    </div>
+{% endblock%}

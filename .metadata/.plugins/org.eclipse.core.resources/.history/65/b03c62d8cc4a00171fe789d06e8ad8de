@@ -1,0 +1,13 @@
+#!/usr/bin/env python
+#coding:utf-8
+'''
+Created on Jun 6, 2017
+
+@author: root
+'''
+ 
+def int_try(arg,default):
+    try:
+        arg = int(arg)
+    except Exception,e:
+        arg = default

@@ -1,0 +1,24 @@
+{% extends "master/layout.html"%}
+{% block content%}
+    <div>
+        <div class="menu" style="width:20%;height:;float:left">
+	         <ul>
+                <li>
+                    <a href="#010092">电信接口人</a>
+                </li>
+                <li>
+                    <a href="#ott-err-code">BesTV运维人员</a>
+                </li>
+                <li>
+                    <a href="#settop-type">BesTV驻地人员</a>
+                </li>
+                <li>
+                    <a href="#shdx-err-code">BesTV测试人员</a>
+                </li>
+                <li>
+                    <a href="#shdx-err-code">添加人员</a>
+                <li>
+		    </ul>
+	    </div>
+    </div>
+{% endblock%}

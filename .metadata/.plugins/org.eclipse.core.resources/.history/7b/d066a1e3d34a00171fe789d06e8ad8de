@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+    <h1>主机列表</h1>
+    <table border="1">
+        <tr>
+            <td>主机名</td>
+            <td>IP</td>
+        </tr>
+        {% for item in data %}
+        <tr>
+            <td>{{item.hostname}}</td>
+            <td>{{item.ip}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+     <div>总条数：{{ count }}</div>
+</body>
+</html>

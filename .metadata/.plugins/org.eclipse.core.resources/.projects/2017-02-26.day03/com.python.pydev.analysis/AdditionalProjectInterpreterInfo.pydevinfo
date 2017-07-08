@@ -1,25 +1,25 @@
 -- VERSION_4
 -- START DISKCACHE_2
-C:\Users\jiang.zhaobao\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\2017-02-26.day03\com.python.pydev.analysis\v2_indexcache
-main.user_action|1496716878182495000|C:\Users\jiang.zhaobao\workspace\2017-02-26.day03\main\user_action.py
-main.shopping|1496716878182495000|C:\Users\jiang.zhaobao\workspace\2017-02-26.day03\main\shopping.py
-main.user_action_recod|1496716878182495000|C:\Users\jiang.zhaobao\workspace\2017-02-26.day03\main\user_action_recod.py
-main.__init__|1496716878182495000|C:\Users\jiang.zhaobao\workspace\2017-02-26.day03\main\__init__.py
-main.index|1496716878182495000|C:\Users\jiang.zhaobao\workspace\2017-02-26.day03\main\index.py
-main.user_info|1496716878182495000|C:\Users\jiang.zhaobao\workspace\2017-02-26.day03\main\user_info.py
+/root/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/2017-02-26.day03/com.python.pydev.analysis/v2_indexcache
+main.shopping|1496627637000000000|/root/workspace/2017-02-26.day03/main/shopping.py
+main.index|1496627637000000000|/root/workspace/2017-02-26.day03/main/index.py
+main.user_info|1496627637000000000|/root/workspace/2017-02-26.day03/main/user_info.py
+main.__init__|1496627637000000000|/root/workspace/2017-02-26.day03/main/__init__.py
+main.user_action_recod|1496627637000000000|/root/workspace/2017-02-26.day03/main/user_action_recod.py
+main.user_action|1496627637000000000|/root/workspace/2017-02-26.day03/main/user_action.py
 -- END DISKCACHE
 -- START DICTIONARY
 4
 2=main.shopping
-4=main.user_action_recod
 1=main.index
 3=main.user_info
+4=main.user_action_recod
 -- END DICTIONARY
 -- START TREE 1
 3
 res|1|res_login!11@
 sho|1|show_goods!18@
-use|3|user_action_select!26@user_action_record!34@user_login!26@
+use|3|user_login!26@user_action_select!26@user_action_record!34@
 -- END TREE
 -- START TREE 2
 0

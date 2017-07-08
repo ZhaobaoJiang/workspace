@@ -1,0 +1,27 @@
+{% extends "master/layout.html"%}
+
+{%block css%}
+    <style>
+        .part4{
+            background-color:#f6f6f6;
+        }
+    </style>
+{%endblock%}
+{%block body%}
+    <div class="w clearfix">
+        <div class="left bbs">
+            <div class="title">
+                 <a href="/publis/" class="publish">添加</a>
+            </div>
+            <div class="content">
+                {% for item in data%}
+                    
+                {%endfor%}
+            </div>
+        </div>
+    </div>
+{%endblock%}
+
+{%block js%}
+
+{%endblock%}

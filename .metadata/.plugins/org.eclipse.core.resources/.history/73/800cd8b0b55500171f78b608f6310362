@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+.body{
+	margin:0;
+}
+.pg-header {
+	height:44px;
+	background-color:#2459a2;
+}
+
+.header-menu{
+	float:left;
+}
+
+.digg-logo{
+	width:121px;
+	height:23px;
+	background:url('/static/images/logo.png');
+	float:left;
+	margin-top:11px;
+}
+a.tb{
+    color:#c0cddf;
+	margin-left:-3px;
+	padding:0 13px 0 16px;
+	display:inline-block;
+	line-height:44px;
+}
+a{
+	text-decoration:none;
+	
+}

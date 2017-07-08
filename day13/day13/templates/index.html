@@ -19,5 +19,27 @@
         {% endfor %}
     </table>
      <div>总条数：{{ count }}</div>
+     <div>{{page}}</div>
+     <div>
+         <select onchange="ChangePageItem(this);">
+             <option value="30">30</option>
+             <option value="50">50</option>
+             <option value="100">100</option>
+             <option value="500">500</option>
+         </select>
+     </div>
+     <script src="/static/jquery.min.js"></script>
+     <script src="/static/jquery.cookie.js"></script>
+     <script type="text/javascript">
+         function ChangePageItem(arg){
+             //创建或者修改cookie的值
+             var value = $(arg).val();
+             $cookie("pager_num",value,{path:"/"});
+         }
+     </script>
+     
+     
+     
+     
 </body>
 </html>

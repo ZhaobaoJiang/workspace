@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link type="text/css" rel="stylesheet" href="/static/css/bbs.css">
+{%block css%}{endblock}
+</head>
+<body>
+    <div class="pg-header">
+        <div class="w clearfix">
+            <div class="logo left"></div>
+            <div class="meun left">
+                <a href="#" class="tb current">全部</a>                
+                <a href="#" class="tb">42区</a>
+                <a href="#" class="tb">段子</a>
+                <a href="#" class="tb">老男孩</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
